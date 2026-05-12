@@ -6,9 +6,9 @@ import mongoose from "mongoose";
 import dotenv from "dotenv";
 import bcrypt from "bcryptjs";
 import jwt from "jsonwebtoken";
-import Prescription from "./src/models/Prescription.js";
-import SafetyCheck from "./src/models/SafetyCheck.js";
-import User from "./src/models/User.js";
+import Prescription from "./src/models/Prescription.ts";
+import SafetyCheck from "./src/models/SafetyCheck.ts";
+import User from "./src/models/User.ts";
 
 dotenv.config();
 
