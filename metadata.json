@@ -1,0 +1,6 @@
+{
+  "name": "MediGuard AI",
+  "description": "Comprehensive healthcare assistant for medical profile management, prescription safety analysis, and AI-powered drug interaction detection.",
+  "requestFramePermissions": ["camera"],
+  "majorCapabilities": []
+}
